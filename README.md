@@ -16,10 +16,10 @@ Download overall class attendance percentage as an Excel sheet.
 ### User Guide:
 Access a user guide to understand app functionality.
 
-### Technology Stack
-## Frontend: 
+## Technology Stack
+### Frontend: 
 React Native
-## Data Storage: 
+### Data Storage: 
 AsyncStorage
-## Database: 
+### Database: 
 MongoDB
