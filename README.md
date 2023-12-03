@@ -16,6 +16,16 @@ Download overall class attendance percentage as an Excel sheet.
 ### User Guide:
 Access a user guide to understand app functionality.
 
+## Installation
+### Clone the repository: 
+git clone 'https://github.com/Lanisterr/SwiftMark.git'
+### Navigate to the project folder:
+'cd SwiftMark'
+### Install dependencies:
+'npm install'
+### Start the app:
+'npx expo start'
+
 ## Technology Stack
 ### Frontend: 
 React Native
